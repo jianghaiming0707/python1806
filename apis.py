@@ -1,7 +1,7 @@
 print("hello git")
-<<<<<<< HEAD
 print("hello")
-printi("wwwwww")
+print("wwwwww")
 print("heheda")
 print("jianghaiming")
 print("汉子")
+print("aaa“”)
